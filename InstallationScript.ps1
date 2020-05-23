@@ -11,6 +11,7 @@ choco install vscode
 choco install vscode-gitlens
 choco install vscode-prettier
 choco install vscode-eslint
+npm install -g eslint
 npm i create-react-app
 choco install discord
 choco install vlc
