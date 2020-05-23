@@ -4,6 +4,7 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 choco install nodejs
 choco install powertoys
 choco install visualstudio2019community
+choco install resharper-platform
 choco install sql-server-management-studio
 choco install dotnetcore-sdk
 choco install powershell-core
@@ -11,6 +12,7 @@ choco install vscode
 choco install vscode-gitlens
 choco install vscode-prettier
 choco install vscode-eslint
+choco install docker-cli
 npm install -g eslint
 npm i create-react-app
 choco install discord
