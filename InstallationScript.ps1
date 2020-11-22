@@ -4,6 +4,8 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManage
 choco install googlechrome
 choco install nodejs
 choco install powertoys
+choco install geforce-experience
+choco install azure-data-studio
 choco install visualstudio2019community
 choco install resharper-platform
 choco install sql-server-management-studio
